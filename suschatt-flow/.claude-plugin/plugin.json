@@ -1,0 +1,7 @@
+{
+  "name": "suschatt-flow",
+  "version": "0.1.0",
+  "description": "Plan, delegate to tiered worker subagents, review - with the orchestrator and worker models picked per run in the prompt. /suschatt-flow -help",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}

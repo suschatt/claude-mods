@@ -1,0 +1,10 @@
+# Allowlist: this repo is public. Everything is ignored unless listed below.
+# Never add SESSION-LOG.md, CLAUDE.md, assets/ or any settings.json.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/bootstrap.sh
+!/statusline-command.sh
+!/skills/
+!/suschatt-flow/
